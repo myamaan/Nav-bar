@@ -1,3 +1,7 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+</style>
+
 * {
     padding: 0;
     margin: 0;
@@ -6,12 +10,13 @@
 .Nav-bar{
     text-align: end;
     list-style: none;
-    background-color: #0bb8b8;
+    
+    background-color: #07075c;
     color: aliceblue;
 }
 li {
     display:inline-block;
-    margin: 20px;
+    margin: 25px;
     font-size: 1rem;
     padding: 10px 5px; 
     cursor: pointer;
