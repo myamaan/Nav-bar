@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.Nav-bar{
+    text-align: end;
+    list-style: none;
+    background-color: #0bb8b8;
+    color: aliceblue;
+}
+li {
+    display:inline-block;
+    margin: 20px;
+    font-size: 1rem;
+    padding: 10px 5px; 
+    cursor: pointer;
+}
+li:hover {
+    color: darkcyan;
+   }
